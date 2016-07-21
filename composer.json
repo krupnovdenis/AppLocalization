@@ -1,0 +1,30 @@
+{
+    "name": "voodoo773/app-localization",
+    "description": "Provides localization for ZF2 Skelleton Application",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "translations",
+    ],
+    "homepage": "https://github.com/voodoo773/app-localization",
+    "authors": [
+        {
+            "name": "Krupnov Denis",
+            "email": "Voodoo773@gmail.com",
+            "homepage": "https://github.com/voodoo773"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "zendframework/zendframework": ">=2.1.0",
+        "zendframework/zend-i18n-resources" : ">=2.4.10"
+    },
+    "autoload": {
+        "psr-0": {
+            "AppLocalization": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}

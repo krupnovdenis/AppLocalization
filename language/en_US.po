@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GV\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-13 11:25+0300\n"
+"PO-Revision-Date: 2016-06-13 11:28+0300\n"
+"Last-Translator: Evan Coury <me@evancoury.com>\n"
+"Language-Team: Time-isMoney <hr@time-ismoney.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:23
+msgid "Главная"
+msgstr "Main page"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:25
+#: src/Voodoo773Localization/View/Helper/Header.php:35
+#: view/voodoo773-localization/index/index.phtml:14
+msgid "Коттедж на одну семью"
+msgstr "Single-family cottage"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:27
+#: src/Voodoo773Localization/View/Helper/Header.php:41
+#: view/voodoo773-localization/index/index.phtml:62
+msgid "Коттедж на две семьи"
+msgstr "Cottage for two families"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:29
+#: src/Voodoo773Localization/View/Helper/Header.php:47
+#: view/voodoo773-localization/index/index.phtml:110
+msgid "Таунхаус"
+msgstr "Townhouse"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:53
+msgid "О проекте"
+msgstr "About project"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:59
+msgid "Расположение"
+msgstr "Location"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:65
+msgid "Видео"
+msgstr "Video"
+
+#: src/Voodoo773Localization/View/Helper/Header.php:70
+msgid "Контакты"
+msgstr "Contacts"
+
+#: language/index.phtml:2
+msgid "Юридический адрес"
+msgstr "Legal address"
+
+#: language/index.phtml:3
+msgid "Zilā iela 5A , Piņķi, Babītes Pagasts,"
+msgstr ""
+
+#: language/index.phtml:4
+msgid "Babītes Novads, LV-2107"
+msgstr ""
+
+#: language/index.phtml:5
+msgid "Недвижимость"
+msgstr "Real estate"
+
+#: language/index.phtml:6
+msgid "Мы в социальных сетях"
+msgstr "Social"
+
+#: language/index.phtml:7
+msgid "Карта сайта"
+msgstr "Sitemap"
+
+#: view/voodoo773-localization/index/index.phtml:3
+msgid "Коттеджный поселок «Green Village» - точка отсчета новой жизни."
+msgstr ""
+"Cottage settlement «Green Village» is the starting point of a new life."
+
+#: view/voodoo773-localization/index/index.phtml:19
+#: view/voodoo773-localization/index/index.phtml:67
+#: view/voodoo773-localization/index/index.phtml:115
+msgid "Цена от"
+msgstr "Price from"
+
+#: view/voodoo773-localization/index/index.phtml:26
+#: view/voodoo773-localization/index/index.phtml:74
+msgid "Площадь дома"
+msgstr "House area"
+
+#: view/voodoo773-localization/index/index.phtml:33
+#: view/voodoo773-localization/index/index.phtml:81
+#: view/voodoo773-localization/index/index.phtml:129
+msgid "Спальни"
+msgstr "Bedrooms"
+
+#: view/voodoo773-localization/index/index.phtml:40
+#: view/voodoo773-localization/index/index.phtml:88
+#: view/voodoo773-localization/index/index.phtml:136
+msgid "Санузлы"
+msgstr "Bathrooms"
+
+#: view/voodoo773-localization/index/index.phtml:47
+#: view/voodoo773-localization/index/index.phtml:95
+#: view/voodoo773-localization/index/index.phtml:143
+msgid "Автонавес"
+msgstr "Car shed"
+
+#: view/voodoo773-localization/index/index.phtml:122
+msgid "Площадь"
+msgstr "Area"
+
+#: view/voodoo773-localization/index/index.phtml:122
+msgid "квартиры"
+msgstr "apartments"
+
+#: view/voodoo773-localization/index/index.phtml:155
+msgid "Green Village"
+msgstr "Green Village"
+
+#: view/voodoo773-localization/index/index.phtml:156
+msgid ""
+"в сознании людей – это всегда нечто большее, чем просто «зеленая деревня». "
+"Это – точка отсчета чего-то нового.В уникальном месте в соответствии со "
+"всеми технологическими требованиями построен поселок «GreenVillage». Давным-"
+"давно выражение «the green village» дало название знаменитому английскому "
+"местечку Гринвич, которое и по сей день является нулевой точкой отсчета "
+"долготы, местом, где встречаются восток и запад. С обратной стороны Земли, в "
+"Индонезии, создание жилого комплекса «Green Village» стало точкой отсчета в "
+"новом строительном концепте, основанном на идеях использования естественных "
+"материалов и зеленых технологий. У авторов латвийского коттеджного поселка "
+"«Green Village» практически не было сомнений ни в выборе названия, ни в "
+"определении стилистики его воплощения. Находящийся примерно на полпути между "
+"Ригой и Юрмалой и граничащий с местечком Пиньки, примечательным своей более "
+"чем 790-летней историей, современный жилой комплекс «Green Village» "
+"расположен в исключительном месте. Как в далеком британском тезке, здесь "
+"встречаются запад и восток, приморский бриз и насыщенные ароматы полевых "
+"цветов, энергичные ритмы города и покой сельской жизни. Сама природа водит "
+"тут карандашом архитектора и нашептывает образы дизайнеру. Ухоженный лес "
+"закрывает поселок от любопытных глаз. Неподалеку находятся природные "
+"заказники и парки государственного значения, несколько озер и река Лиелупе. "
+"А там и до знаменитой Юрмалы – рукой подать. Концепт естественности, "
+"родившийся за тысячи километров от Латвии, нашел воплощение в проекте «Green "
+"Village». Он проявился в отборе строительных материалов и использованных "
+"технологиях, в найденных архитектурных формах и философии создания "
+"жизненного пространства."
+msgstr ""
+"in people’s minds – it is always something bigger than just „Green Village”. "
+"It is a starting point of something new. A long time ago expression «the "
+"green village» gave a name to famous English place, the Greenwich, which to "
+"this day is the zero point of longitude, a place where East and West meet. "
+"On another side of the Earth, in Indonesia, development of the housing "
+"estate «Green Village» became a starting point in new construction concept, "
+"based on the ideas of using eco-friendly materials and green technologies. "
+"The authors of Latvian cottage village „Green Village” have not had any "
+"doubt regarding the name of the village and determining the style of its "
+"embodiment. The „Green Village” is located on the in between Riga and "
+"Jurmala and also is near the township „Pinki”, which is famous for its 790 "
+"years of history. The modern housing estate „Green Village” is situated at "
+"an exceptional location. Like its namesake, here is meeting East and West, "
+"coastal breeze and the intense aromas of wildflowers, energetic rhythms of "
+"the city and the tranquility of rural life. The nature herself is leading "
+"the pencil of the architect and whispers images to the designer. A well- "
+"maintained forest closes village away from a prying eyes. Nearby are located "
+"nature reserves and parks of national importance, several lakes and the "
+"river Lielupe. The concept of naturalness, which was born thousands "
+"kilometers away from Latvia, found its expression in the project „Green "
+"Village”. It manifested itself in the selection of construction materials "
+"and technologies, in the architectural forms and the philosophy of creating "
+"living space."
+
+#: view/voodoo773-localization/index/index.phtml:158
+msgid "Обратный звонок"
+msgstr "Call back"
