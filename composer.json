@@ -20,10 +20,6 @@
         "zendframework/zendframework": ">=2.1.0",
         "zendframework/zend-i18n-resources" : ">=2.4.10"
     },
-    "autoload": {
-        "psr-0": {
-            "AppLocalization": ""
-        },
         "classmap": [
             "./Module.php"
         ]
