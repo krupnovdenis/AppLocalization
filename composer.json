@@ -12,7 +12,8 @@
         {
             "name": "Krupnov Denis",
             "email": "Voodoo773@gmail.com",
-            "homepage": "https://github.com/voodoo773"
+            "homepage": "https://github.com/voodoo773/app-localization",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -23,10 +24,8 @@
     
     "autoload": {
         "psr-0": {
-            "AppLocalization": "src/"
+            "AppLocalization": "src"
         },
-        "classmap": [
-            "src/"
-        ]
+        "classmap": ["Module.php"]
     }
 }
