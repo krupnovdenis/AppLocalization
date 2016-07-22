@@ -5,7 +5,6 @@
     "version" : "0.0.1",
     "keywords": [
         "zf2",
-        "translations",
     ],
     "homepage": "https://github.com/voodoo773/app-localization",
     "authors": [
