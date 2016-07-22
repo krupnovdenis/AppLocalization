@@ -23,8 +23,8 @@
     
     "autoload": {
         "psr-0": {
-            "AppLocalization": "src"
+            "AppLocalization": "src/"
         },
-        "classmap": ["Module.php"]
+        "classmap": ["./Module.php"]
     }
 }
