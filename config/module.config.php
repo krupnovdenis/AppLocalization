@@ -48,7 +48,9 @@ return array(
         ),
         'template_map' => array(
             'layout/localization'   => __DIR__ . '/../view/layout/layout.phtml',
-        
+        ),
+        'strategies' => array(
+            'ViewJsonStrategy',
         ),
     ),
     'service_manager' => array(
